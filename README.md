@@ -1,1 +1,3 @@
-# personal-web
+# Personal Website for Noah
+
+Repo for my web.
